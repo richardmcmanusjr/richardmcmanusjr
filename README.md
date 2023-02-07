@@ -1,5 +1,6 @@
-### Hi there 👋
+## <img src="https://raw.githubusercontent.com/kekoawong/kekoawong/master/wave2.gif" width="50" height="50" align="bottom"> Hello there <p align='center'> <img src="https://github.com/richardmcmanusjr/richardmcmanusjr/blob/main/hello-there-general-kenobi.gif" width="300" align="bottom"> </p>
 
+#
 <!--
 **richardmcmanusjr/richardmcmanusjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
